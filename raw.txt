@@ -1,0 +1,24 @@
+
+
+Here’s the list of top accomplishments for Change Management for 2025:
+Successful transition of external staff from TCS to InfoSys, despite FTE reduction
+YTD Change success rate is 99.17% (Global KPI is 90%)
+Decrease of median Incidents Caused by Change from 4 in 2024 to only 1.5 in 2025 YTD
+Only 5 Emergency Changes raised YTD for CTO1 AGCS - 0.09% (Global KPI is 10%)
+YTD Standard Change usage increased from 33% in 2024 to 39% in 2025 (Global Target is 15%).
+Successful transition of Release Coordination activities to Release Management
+ 
+As for the theme, I’m not really the “creative” type, but I like your idea with the Seven Dwarfs…  Happy to take the role of Grumpy!  😉
+ Few achievements that I could think of. 
+
+High Availability due to lower Major incidents P1/ P2. Monthly average of 7.4 P2 incidents and 0.3 P1 incidents YTD. 
+Business impact duration. (Target : 980 hr. We are trending at 350 hrs till date.  More than 60% reduction therefore business has more hours without IT interruption) 
+25% reduction in P3/P4 incidents in 2025 YoY.  
+DORA onboarding and successful delivery of the operational model + IMCT tool implementation. 
+Supported Service desk AZ Works with Agentic AI which significantly improved Knowledge base usage, faster incident routing and less error due to incorrect assignment groups. 
+Evaluated about 100+ knowledge articles and created 25 new knowledge articles in alignment with the post-gearshift application landscape. 
+Ran a Taskforce and reduced open vulnerabilities significantly. We are now in target at 89% reduction of open vulnerabilities compared to Feb 2025.  Also supported in creating a new process for application Vs server vulnerabilities. 
+Improved Service manager coordination with Service manager steering on critical open topics and guiding on central Az Technology process updates. 
+availability report: image.png
+
+
