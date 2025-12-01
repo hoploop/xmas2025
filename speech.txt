@@ -1,0 +1,64 @@
+// ...existing code...
+[Opening — 0:00–0:12]
+Music: gentle festive background music starts; visuals: Disney-like castle interior, Xmas tree, seven laptops around; consistent castle rooms for cuts.
+Subtitle: "Test & Change Management — Year 2025"
+
+Doc — Change Management Excellence (approx. 0:12–0:55)
+Voice: clear, confident.
+"Welcome to our castle. We focussed on reliable, low-risk change in 2025. We reached a 99.17% change success rate — well above the 90% target. Median incidents caused by change fell from four to 1.5 per year, and only five emergency changes were needed YTD. Standard change adoption rose to 39%. We transitioned external staff to InfoSys, moved release coordination to Release Management, and migrated multinational services to App2. We improved stakeholder training, formalised pre-change checklists, and reduced rollback frequency with enhanced validation."
+Subtitle: "99.17% success | Median incidents 1.5 | Standard change 39%"
+Pass-off: "Hi Ho Hi Ho — Gumpy, your turn."
+
+Gumpy — Release Management & Transformation (approx. 0:55–1:30)
+Voice: pragmatic, direct.
+"Thanks Doc. We modernised release practices with a PI release calendar and transformation workshops that captured stakeholder feedback. Releases now run on dynamic Jira boards, with release health dashboards, readiness gates, and cross-team rehearsals. These steps shortened release windows and improved coordination across teams."
+Subtitle: "PI calendar | Dynamic Jira | Release health"
+Pass-off: "Hi Ho Hi Ho — Happy, over to you."
+
+Happy — Operational Excellence & High Availability (approx. 1:30–2:05)
+Voice: upbeat, positive.
+"Hello all. We maintained high availability: 7.4 P2 and 0.3 P1 incidents per month on average, and we cut business-impact duration by over 60% versus target. P3/P4 incidents decreased by 25% year‑over‑year. Runbooks, improved on‑call rotations and capacity planning reduced recovery times and peak-impact risk — giving users steadier service."
+Subtitle: "P1: 0.3/mo | Impact -60% | P3/P4 -25%"
+Pass-off: "Hi Ho Hi Ho — Sleepy, take it away."
+
+Sleepy — Monitoring & Event Management (approx. 2:05–2:45)
+Voice: calm, measured.
+"We completed a Monitoring CoE pilot and moved non‑prod into the Dynatrace pre‑prod tenant. KAFKA and AWS ActiveMQ monitoring were onboarded, custom thresholds set, and ART applications added. Daily operational checks and proactive alerts averted 50+ potential P2 incidents. We also added synthetic checks, automated escalation, and tied monitoring into change gates to catch regressions earlier."
+Subtitle: "Monitoring CoE | Dynatrace pre-prod | 50+ P2 averted"
+Pass-off: "Hi Ho Hi Ho — Bashful, your turn."
+
+Bashful — Strategic Initiatives (approx. 2:45–3:20)
+Voice: modest, sincere.
+"We supported strategic initiatives like DORA onboarding and IMCT tool implementation, and we helped AZ Works Service Desk with Agentic AI to improve knowledge base usage and routing accuracy. We reviewed 100+ knowledge articles and created 25 new ones. We ran satisfaction surveys, trained agents on AI-augmented triage, and tracked improvements in first‑contact resolution."
+Subtitle: "DORA & IMCT | Agentic AI | 100+ articles reviewed"
+Pass-off: "Hi Ho Hi Ho — Sneezy, go ahead."
+
+Sneezy — Security & Governance (approx. 3:20–3:55)
+Voice: firm, focused.
+"Security was front and center. A taskforce reduced open vulnerabilities by 89% since February. We established a clear process to distinguish application vs. server vulnerabilities, improved patch cadence, enforced SLAs for high‑risk fixes, and strengthened governance via regular steering meetings — accelerating remediation and audit readiness."
+Subtitle: "Open vulnerabilities -89% | New vulnerability processes"
+Pass-off: "Hi Ho Hi Ho — Dopey, finish strong."
+
+Dopey — Test Automation & Performance Testing (approx. 3:55–4:45)
+Voice: simple, enthusiastic.
+"Our test automation and performance work matured this year. We delivered technical reporting and custom error logging, integrated Jenkins with Jira Zephyr, and reduced test‑script errors by 20%. Zephyr migration and training completed, TDM and subsetting initiatives started, and load testing moved from NeoLoad to JMeter with Jenkins. We ran five release performance tests, improved CI stability, added automated smoke tests, and increased coverage for critical flows."
+Subtitle: "Jenkins + Zephyr | -20% test errors | JMeter migration"
+Pass-off: "Hi Ho Hi Ho — everyone together."
+
+Closing — All dwarves together (approx. 4:45–5:10)
+Voices: warm, in unison.
+"From our castle to yours — thank you for a year of collaboration and continuous improvement. We built stronger processes, better monitoring, and a safer, faster delivery pipeline. Merry Christmas and a happy new year from Test & Change Management."
+Subtitle: "Merry Christmas & Happy New Year"
+
+[End — 5:10–<=6:00]
+Music: festive background music continues and gently fades; visuals: castle, tree, small side screen cycling key KPIs and contact info.
+Subtitle: "Key achievements | Contact: Test & Change Management"
+
+Notes:
+- Total spoken runtime ≈ 5:10; overall video must remain under 6 minutes.
+- Each dwarf verbally passes to the next with "Hi Ho Hi Ho" as a handoff phrase.
+- Keep castle setting, lighting and background music consistent across cuts; display short subtitle lines on the small side screen for each segment.
+- Adjust pacing slightly in editing if needed to meet the final runtime target.
+// ...existing code...
+{ changed code }
+// ...existing code...
